@@ -1,10 +1,10 @@
 # ¡Hola, soy Marcos! 👋
 
-<div style="float: left; margin: 20px;">
-  <img src="programming.gif" alt="background Marcos lTunix" width="150"/>
+<div>
+  <img src="programming.gif" alt="background Marcos lTunix" width="150" align="left" style="margin-right: 20px;"/>
+  
+  Bienvenido a mi rincón de código, donde la magia de la programación cobra vida. Soy un apasionado desarrollador con habilidades en diversas tecnologías. Permíteme contarte un poco sobre mí.
 </div>
-
-Bienvenido a mi rincón de código, donde la magia de la programación cobra vida. Soy un apasionado desarrollador con habilidades en diversas tecnologías. Permíteme contarte un poco sobre mí.
 
 ## Sobre mí 🚀
 
