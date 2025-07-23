@@ -26,6 +26,7 @@
 
 ## Mis Proyectos Destacados 🌟
 
+- [CompraFast](https://comprafast.cl/): Buscador y comparador de precios de supermercados, farmacias y otras tiendas en Chile.
 - [WhatsappGPT](https://whatsappgpt.space/): Bot con IA para Whatsapp.
 
 ## Conéctate conmigo 📫
